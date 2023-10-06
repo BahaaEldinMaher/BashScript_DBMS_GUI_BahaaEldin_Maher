@@ -22,7 +22,7 @@ This Bash script provides a user-friendly graphical interface for managing datab
 
 1. Clone the repository.
 2. Make the script executable: `chmod +x database_management_script.sh`
-3. Run the script: `./database_management_script.sh`
+3. Run the script: `./project`
 
 ## How to Use
 
