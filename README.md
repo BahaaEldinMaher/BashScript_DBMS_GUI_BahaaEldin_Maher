@@ -32,7 +32,7 @@ This Bash script provides a user-friendly graphical interface for managing datab
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed to BahaaEldin only. Unauthorized use, distribution, or modification is prohibited. All rights reserved.
 
 ## Author
 
