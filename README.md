@@ -21,7 +21,7 @@ This Bash script provides a user-friendly graphical interface for managing datab
 ## Usage
 
 1. Clone the repository.
-2. Make the script executable: `chmod +x database_management_script.sh`
+2. Make the script executable: `chmod +x project.sh`
 3. Run the script: `./project`
 
 ## How to Use
